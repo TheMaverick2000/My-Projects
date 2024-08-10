@@ -1,0 +1,9 @@
+body{
+    background-image: url(IMG_2833.JPG);
+    background-size: cover;
+    flex-wrap:wrap ;
+}
+
+img{
+    border: 90px;
+}
