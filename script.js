@@ -1,4 +1,3 @@
-new-folder/script.js.
 
 // script.js
 document.addEventListener("DOMContentLoaded", () => {
