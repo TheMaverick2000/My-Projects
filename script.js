@@ -1,3 +1,5 @@
+new-folder/script.js.
+
 // script.js
 document.addEventListener("DOMContentLoaded", () => {
   const form = document.querySelector("form");
